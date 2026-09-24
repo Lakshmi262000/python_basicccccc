@@ -379,13 +379,107 @@ phn_number = None
 # print(file.endswith(".csv"))
 # print("@" in email)
 
-phone1 = "+48-176-12345"
-phone2 = "48-654-16548"
-phone3 = "0048-654-16548"
-print(phone1[4:])
-print(phone2[3:]) 
-print(phone3[5:])
-print(phone1.find("-"))
+# phone1 = "+48-176-12345"
+# phone2 = "48-654-16548"
+# phone3 = "0048-654-16548"
+# print(phone1[4:])
+# print(phone2[3:]) 
+# print(phone3[5:])
+# print(phone1.find("-"))
+# print(phone1[phone1.find("-")+1:])
+# print(phone2[phone2.find("-")+1:]) 
+# print(phone3[phone3.find("-")+1:])
+
+
+######################## VALIDATIONS #####################
+
+# country = "India"
+# print(country.isalpha())
+# country = "India1"
+# print(country.isalpha())
+# country = "India/#"
+# print(country.isalpha())
+
+
+# phone = "630126334905"
+# print(phone.isnumeric())
+
+# phone = "6301-26334905"
+# print(phone.isnumeric())
+
+# phone = "63012.6334905"
+# print(phone.isnumeric())
+
+
+# x = 9
+# x += 5
+# print(x)
+# x -=3
+# print(x)
+# x *=3
+# print(x)
+
+############## MEASURE DISTANCE ##################3
+# print(2-12)
+# print(abs(2-12))
+
+#################### ROUNDING NUMBERS ####################
+# import math
+# price = 35.5467890
+# print(round(price))
+# print(math.floor(price))
+# print(math.ceil(price))
+# print(round(price,3))
+# print(math.trunc(price))
+# print(int(price))
+
+
+# import random
+# print(random.random())
+# print(random.randint(1,7))
+# print(random.randint(2,10))
+
+# x = 7.0
+# print(x.is_integer())
+
+# x = 7.03
+# print(x.is_integer())
+
+# x = 70.0
+# print(isinstance(x,int))
+# print(isinstance(x,float))
+
+
+############ GENERATE A RANDOM INTEGER BETWEEN 1 AND 100 AND CHECK IF THE RESULT IS AN EVEN NUMBER
+# import random
+# # print(random.randint(1,100))
+# # print(random.randint(1,100),random.randint(1,100)%2 == 0)  ========use cheyak nanna ilaga
+# a = random.randint(1,100)
+# print(a,a%2 == 0)
+
+# print(True)
+# print(False)
+# print(type(False))
+# print(bool(123))
+# print(bool("hi"))
+# print(bool())
+# print(bool(0))
+# print(bool(""))
+print(bool(None))
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
 
 
 
