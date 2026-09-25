@@ -465,7 +465,9 @@ phn_number = None
 # print(bool())
 # print(bool(0))
 # print(bool(""))
-print(bool(None))
+# print(bool(None))
+
+
 
 
 
