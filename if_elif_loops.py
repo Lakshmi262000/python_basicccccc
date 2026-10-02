@@ -119,11 +119,6 @@
 
 
 #################################  loops    ###############################################
-n = 0 
-while 5 > n :
-    print(f"5 is greater than {n} ")
-    n=n+1
-    
 
 
 
@@ -133,11 +128,45 @@ while 5 > n :
 
 
 
+# n = 0 
+# while 5 > n :
+#     print(f"5 is greater than {n} ")
+#     n=n+1
 
+
+
+
+# list = [20,-39,45,-29,-38,47,56,76,35,90,-32,43,54,-65,76,87,-55,66,-77,]
+# p_list = []
+# n_list = []
+# for i in list :
+#     if i > 0 :
+#         p_list.append(i)
+#     else :
+#         n_list.append(i)
+# print("positive_list:" , p_list)
+
+# print("negative_list:" ,n_list)
+
+
+
+
+
+# for i in range(1,11):
+#     print(list(range(i)),end = "" )
+
+
+# for i in range(1,11):
+#     print(list(range(i)))
 
 
 # range(1,11)
 # print(list(range(1,11)))
+
+
+
+
+
 
 
 
