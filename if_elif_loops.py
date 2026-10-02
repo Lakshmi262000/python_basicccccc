@@ -1,3 +1,9 @@
+
+################################  if elif else  ###############################################
+
+
+
+
 # salary = 80000
 # emp_leave = str(input("If you are on leave,type on leave as status : "))
 # if (emp_leave == "on leave"):
@@ -100,6 +106,41 @@
 #     print("invalid choice")
 
 # print("final amrks:", marks)
+
+
+
+
+
+
+
+
+
+
+
+
+#################################  loops    ###############################################
+n = 0 
+while 5 > n :
+    print(f"5 is greater than {n} ")
+    n=n+1
+    
+
+
+
+
+
+
+
+
+
+
+
+
+# range(1,11)
+# print(list(range(1,11)))
+
+
+
 
 
 
