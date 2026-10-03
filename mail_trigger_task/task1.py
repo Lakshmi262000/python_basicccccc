@@ -5,9 +5,9 @@ from email.message import EmailMessage
 # EMAIL DETAILS
 # -----------------------------
 
-SENDER_EMAIL = "nazriya26.k@gmail.com"
-APP_PASSWORD = "tgcqxnycqejiemkf"
-RECEIVER_EMAIL = "luckypotti2019@gmail.com"
+SENDER_EMAIL =nazriya6.k@gmail.com"
+APP_PASSWORD = "tgcqxnycqejiekkk"
+RECEIVER_EMAIL = "luckypottik2019@gmail.com"
 
 
 # -----------------------------
